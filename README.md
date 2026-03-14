@@ -45,6 +45,8 @@
 <b>Web</b>
 <a href="https://abir-bhowmick007.github.io/protfolio-website/" > Protfolio</a>
 <br>
+<img src="portfolio-preview.png" alt="Portfolio Website Preview" width="100%" style="max-width: 800px; border-radius: 8px; margin-top: 10px; margin-bottom: 20px;" />
+<br>
 <b>Android</b>
 
 <b>Competitive</b>
